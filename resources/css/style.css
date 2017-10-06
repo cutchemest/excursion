@@ -19,10 +19,27 @@ body{
 	color: gray;
 }
 
+.landscape,
+	.phone{
+	margin: auto;
+	display: block;
+}
+
 .main-head{
 	color:white;
 	font-family: Verdana;
 	font-size: 50px;
+}
+
+p{
+	text-align: right;
+	color: gray;
+	font-size: 24px;
+	margin-right: 5px;
+}
+
+.phone{
+	margin-top: 15px;
 }
 
 .promo-video{
